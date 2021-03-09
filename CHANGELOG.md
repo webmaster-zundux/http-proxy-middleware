@@ -1,5 +1,17 @@
 # Changelog
 
+## [v1.0.6](https://github.com/chimurai/http-proxy-middleware/releases/tag/v1.0.6)
+
+- chore(deps): lodash 4.17.20 ([#475](https://github.com/chimurai/http-proxy-middleware/pull/475))
+
+## [v1.0.5](https://github.com/chimurai/http-proxy-middleware/releases/tag/v1.0.6)
+
+- chore(deps): lodash 4.17.19 ([#454](https://github.com/chimurai/http-proxy-middleware/pull/454))
+
+## [v1.0.4](https://github.com/chimurai/http-proxy-middleware/releases/tag/v1.0.4)
+
+- chore(deps): http-proxy 1.18.1 ([#442](https://github.com/chimurai/http-proxy-middleware/pull/442))
+
 ## [v1.0.3](https://github.com/chimurai/http-proxy-middleware/releases/tag/v1.0.3)
 
 - build(package): exclude build artifact tsconfig.tsbuildinfo ([#415](https://github.com/chimurai/http-proxy-middleware/pull/415))
